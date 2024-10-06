@@ -1,3 +1,8 @@
+#### Name: [MANSI BHANDARI](https://github.com/Thejaggeddevil)
+- Place: India
+- Bio: second year Computer Science Student
+- GitHub: [Thejaggeddevil](https://github.com/Thejaggeddevil)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
